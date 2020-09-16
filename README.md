@@ -1,6 +1,5 @@
-# Preisvergleich
+# Preisvergleich - Methode
 
-Methode
 Die Händler wurden nach ihrer Umsatzstärke 2019 in der Schweiz ausgewählt, wie sie das E-Commerce-Beratungsunternehmen Carpathia auflistet. Gegenstand der Untersuchung waren Digitec, Amazon, Brack, Microspot und Galaxus. Die übrigen Händler in den Top Ten des Carpathia-Rankings bieten jene Waren nicht an, die für diese Untersuchung gesucht waren. Bei Digitec Galaxus handelt es sich um ein Unternehmen mit zwei Onlineshops. Sie wurden in der Auswertung zusammengenommen, weil die Preise in den allermeisten Fällen deckungsgleich sind.
 
 Die Produkte wurden anhand der Beliebtheit bei Digitec.ch, dem umsatzstärksten Händler in dieser Untersuchung, ausgewählt. Es wurden 20 Kategorien ausgewählt und diese nach Bestseller sortiert. Das beliebteste Produkt pro Kategorie, das in allen Shops erhältlich war, wurde in die Untersuchung miteinbezogen. Aus der Kategorie Mobiltelefonie wurden vier Produkte ausgewählt (zwei iPhones und zwei Samsung Galaxy-Modelle), weil die Fragestellung geklärt werden sollte, ob bei neueren Smartphones ein grösserer Preiskampf herrscht als bei älteren.
